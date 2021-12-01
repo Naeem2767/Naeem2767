@@ -2,7 +2,7 @@
 - 👀 I’m interested in Tech Talents
 - 🌱 I’m currently learning Advanced Recruitment
 - 💞️ I’m looking to collaborate with Tech Talents looking for new opportunities.
-- 📫 Reach me at Naim.shaikh8975@gmail.com
+- 📫 Reach me at recruiternaeem@gmail.com
 
 <!---
 Naeem2767/Naeem2767 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
